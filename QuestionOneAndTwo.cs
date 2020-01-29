@@ -18,6 +18,10 @@ namespace CodingQuestions
         {
         }
     }
+
+    /// <summary>
+    /// Solution to Question One
+    /// </summary>
     class QuestionOne
     {
 
@@ -57,6 +61,9 @@ namespace CodingQuestions
         }
     }
 
+    /// <summary>
+    /// Solution to Question Two
+    /// </summary>
     class QuestionTwo
     {
         /// <summary>
@@ -109,5 +116,4 @@ namespace CodingQuestions
             return null;
         }
     }
-
 }
